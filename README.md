@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Salazar</h1>
-<h3 align="center">Mechatronics Engineer Graduate from Mexico</h3>
+<h3 align="center">Mechatronics Engineer from Mexico</h3>
 
 - 🌱 I’m currently learning **C for Embedded Systems and Python**
 
